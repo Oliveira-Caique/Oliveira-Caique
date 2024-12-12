@@ -8,7 +8,7 @@ Bacharel em Engenharia de Computação pelo Instituto Federal de Educação, Ci�
 - **Bibliotecas**: 
   - **Machine Learning**: scikit-learn
   - **Manipulação de Dados**: Pandas, NumPy
-  - **Visualização de Dados**: Matplotlib
+  - **Visualização de Dados**: Matplotlib, Seaborn
 - **Ferramentas**: Jupyter Notebooks, Git
 
 ## 🎯 Objetivos
