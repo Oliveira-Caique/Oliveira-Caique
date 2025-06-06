@@ -1,22 +1,22 @@
-### Olá, eu sou o Caíque! 👋
+### 👨‍💻 Desenvolvedor Java Backend 
 
-Sou bacharel em Engenharia de Computação pelo Instituto Federal de Educação, Ciência e Tecnologia da Paraíba - Campus Campina Grande e possuo a certificação de **Associate Data Scientist** pelo DataCamp. Atualmente, estou em transição de carreira para me tornar um **Desenvolvedor Backend Java**, com foco em construir sistemas backend robustos e escaláveis.
+Bacharel em Engenharia de Computação pelo IFPB, onde pesquisei sobre Acessibilidade Web, Tecnologias da Educação e conquistei a certificação de Associate Data Scientist (DataCamp). Em transição ativa para desenvolvimento backend Java, com foco em construir sistemas robustos e escaláveis usando ecossistema Spring. Apaixonado por arquitetura de software e boas práticas de código.
 
-## 🛠️ Habilidades Técnicas
+## 🚀 Expertise Técnica
 
-- **Linguagens de Programação**: Java, Python
-- **Frameworks**: 
-  - **Desenvolvimento Backend**: Spring (Spring Boot, Spring MVC, Spring Data JPA)
-- **Ferramentas**: Git, Maven, IntelliJ IDEA
-- **Bancos de Dados**: MySQL, PostgreSQL
-- **Outras Habilidades**: APIs RESTful, Testes Unitários (JUnit)
+**Backend Java Profissional**  
+▸ Spring Boot 3 | Spring MVC | Spring Data JPA | Spring Security  
+▸ Design de APIs RESTful (Documentação Swagger/OpenAPI)  
+▸ Testes robustos: JUnit 5, Mockito    
 
-## 🎯 Objetivos Profissionais
+**Stack de Desenvolvimento**  
+▸ Banco de Dados: MySQL, PostgreSQL  
+▸ Build Tools: Maven | Gradle  
+▸ Controle de Versão: Git (Git Flow)  
 
-Sou apaixonado por desenvolvimento backend e atualmente estou focado em dominar **Java** e o **Spring Framework** para construir sistemas backend eficientes, escaláveis e de fácil manutenção. Meu objetivo é contribuir para projetos impactantes que resolvam problemas do mundo real por meio de arquiteturas de software bem projetadas.
+## 🔍 Busco Oportunidades Como  
+Desenvolvedor Java Backend Júnior | Estágio em Desenvolvimento Backend  
 
-## 🌱 Aprendizado Contínuo
-
-Estou comprometido com o aprendizado e a melhoria contínuos. Atualmente, estou aprofundando meus conhecimentos em **Desenvolvimento Backend com Java**, explorando conceitos avançados do Spring e trabalhando em projetos pessoais para consolidar minhas habilidades. Se você tiver alguma oportunidade ou quiser colaborar, sinta-se à vontade para entrar em contato!
-
-- **Email**: caique.oliveira@academico.ifpb.edu.br
+## 📫 Vamos Conversar?  
+[![LinkedIn](https://img.shields.io/badge/Conecte--se_no_LinkedIn-%230A66C2?logo=linkedin)](https://linkedin.com/in/caiqueos)  
+📧 caique.oliveira@academico.ifpb.edu.br  
