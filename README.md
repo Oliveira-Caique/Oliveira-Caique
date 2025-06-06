@@ -1,8 +1,8 @@
-### 👨‍💻 Desenvolvedor Java Backend 
+### Desenvolvedor Java Backend 
 
 Bacharel em Engenharia de Computação pelo IFPB, onde pesquisei sobre Acessibilidade Web, Tecnologias da Educação e conquistei a certificação de Associate Data Scientist (DataCamp). Em transição ativa para desenvolvimento backend Java, com foco em construir sistemas robustos e escaláveis usando ecossistema Spring. Apaixonado por arquitetura de software e boas práticas de código.
 
-## 🚀 Expertise Técnica
+## Expertise Técnica
 
 **Backend Java Profissional**  
 ▸ Spring Boot 3 | Spring MVC | Spring Data JPA | Spring Security  
@@ -14,9 +14,9 @@ Bacharel em Engenharia de Computação pelo IFPB, onde pesquisei sobre Acessibil
 ▸ Build Tools: Maven | Gradle  
 ▸ Controle de Versão: Git (Git Flow)  
 
-## 🔍 Busco Oportunidades Como  
+## Busco Oportunidades Como  
 Desenvolvedor Java Backend Júnior | Estágio em Desenvolvimento Backend  
 
-## 📫 Vamos Conversar?  
-[![LinkedIn](https://img.shields.io/badge/Conecte--se_no_LinkedIn-%230A66C2?logo=linkedin)](https://linkedin.com/in/caiqueos)  
-📧 caique.oliveira@academico.ifpb.edu.br  
+## Contato  
+ - [LinkedIn](https://linkedin.com/in/caiqueos)  
+ - caique.oliveira@academico.ifpb.edu.br  
